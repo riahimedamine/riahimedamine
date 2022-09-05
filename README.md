@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @riahimedamine
-- 👀 I’m interested in GameDev and Desktop apps
-- 🌱 I’m currently learning CSS an JavaScript
+- 👀 I’m interested in GameDev, Desktop apps and Web apps
+- 🌱 I’m currently learning Node, Neural Networks and advanced C
 - 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach me <a ref="MAILTO:riahimedamine120@gmail.com"> Email </a>
+- 📫 How to reach me [Email](MAILTO:riahimedamine120@gmail.com)
 
 <!---
 riahimedamine/riahimedamine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
