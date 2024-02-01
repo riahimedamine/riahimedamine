@@ -2,6 +2,10 @@
 
 I'm a Computer Engineering student from Tunisia who loves to build applications and websites. When I'm not coding, I'm exploring the world of artificial intelligence and playing video games.
 
+## Current Game
+
+![Game](assets/currentGame.jpg)
+
 ## 🧰 Tech Stack
 
 Here are some of my favorite tools and technologies:
