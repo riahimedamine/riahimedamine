@@ -1,4 +1,4 @@
-# Hello, I'm Mohamed Amine RIAHI :wave:
+# Hello, I'm Mohamed Amine RIAHI 👋
 
 I'm a Computer Engineering student from Tunisia who loves to build applications and websites. When I'm not coding, I'm exploring the world of artificial intelligence and playing video games.
 
