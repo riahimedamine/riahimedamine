@@ -1,0 +1,6 @@
+title: Your GitHub Profile
+description: This is my GitHub profile. There are many like it, but this one is mine.
+theme: minima
+remote_theme: jekyll/minima
+keep_files:
+    - assets
