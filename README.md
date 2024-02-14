@@ -10,10 +10,10 @@ I'm a Computer Engineering student from Tunisia who loves to build applications 
 
 Here are some of my favorite tools and technologies:
 
--   Express.JS, Next, MongoDB, and Docker.
--   GoLang, HTMX, Postgres, and Docker.
--   Spring, Angular, and Postgres.
--   Django, SQLite, and plain HTML5.
+- Express.JS, Next, MongoDB, and Docker.
+- GoLang, HTMX, Postgres, and Docker.
+- Spring, Angular, and Postgres.
+- Django, SQLite, and plain HTML5.
 
 ## 🎯 Skills
 
